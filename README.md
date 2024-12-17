@@ -1,2 +1,3 @@
-# myfirstcode
-first projest
+# maven-project
+
+Simple Maven Project
